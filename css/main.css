@@ -1,0 +1,38 @@
+body {
+    background-color: #222;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-size: 300%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 20px;
+}
+
+.entryBlock {
+    background-color: white;
+    width: 300px;
+    border: 2px solid black;
+}
+
+.gameTitle {
+    text-align: center;
+    font-weight: bold;
+}
+
+.nameInput {
+    position: relative;
+    margin-left: 25%;
+    margin-right: 25%;
+}

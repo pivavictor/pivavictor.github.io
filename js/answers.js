@@ -1,0 +1,23 @@
+var list = {
+    1: ['Mega Man Zero 2', 'megaman zero 2', 'rockman zero 2', 'mmz2', 'rmz2'],
+    2: ['Final Fantasy XIV', 'ffxiv', 'final fantasy 14', 'ff14'],
+    3: ['Eschatos'],
+    4: ['Gran Turismo'],
+    5: ['Sonic the Hedgehog 3', 'sonic 3'],
+    6: ['Radiant Silvergun'],
+    7: ['Hollow Knight'],
+    8: ['Cave Story', 'doukutsu monogatari'],
+    9: ['Harvest Moon: Back to Nature', 'harvest moon back to nature', 'harvest moon btn',
+        'harvest moon: friends of mineral town', 'harvest moon friends of mineral town','harvest moon fomt'],
+    10: ['Castlevania III: Dracula\'s Curse', 'castlevania 3', 'castlevania iii', 'akumajou densetsu'],
+    11: ['Terranigma', 'tenchi souzou'],
+    12: ['Chrono Cross'],
+    13: ['Digimon World'],
+    14: ['Ys VI: The Ark of Napishtim', 'ys vi', 'ys 6'],
+    15: ['Mega Man 5', 'megaman 5', 'mm5', 'rockman 5', 'rm5'],
+    16: ['Thunder Force IV', 'thunder force 4', 'tfiv', 'tf4'],
+    17: ['Final Fantasy Tactics', 'fft'],
+    18: ['Shovel Knight'],
+    19: ['Tekken 2'],
+    20: ['Fantasy Zone']
+}
